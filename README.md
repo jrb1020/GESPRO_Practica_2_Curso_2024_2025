@@ -6,3 +6,4 @@ Para completar la práctica 2, se iniciará el repositorio de cada grupo (en el 
 Incluid debajo el nombre de los miembros del grupo:
 
 ![image](https://github.com/user-attachments/assets/be4db69b-090a-4e6f-b5d1-80d4f23ada72)
+![Captura de pantalla 2024-11-18 210122](https://github.com/user-attachments/assets/dd63602c-20f1-4757-a201-8c978b122fe9)
